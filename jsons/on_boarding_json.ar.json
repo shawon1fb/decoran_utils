@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/shawon1fb/decoran_utils/master/images/on_boarding/on_board_1.png",
+      "title": "تصفح\nالمنتجات",
+      "body": "اكتشف مجموعة واسعة من المنتجات المصممة لتناسب اهتماماتك واحتياجاتك. من العناصر الشائعة إلى التوصيات الشخصية، هناك شيء للجميع."
+    },
+    {
+      "image": "https://raw.githubusercontent.com/shawon1fb/decoran_utils/master/images/on_boarding/on_board_2.png",
+      "title": "احفظ\nالمفضلات",
+      "body": "هل وجدت شيئًا تحبه؟ احفظه لوقت لاحق بإضافته إلى قائمة الرغبات الخاصة بك. لا تفوت أبدًا العناصر التي ترغب بها مرة أخرى!"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/shawon1fb/decoran_utils/master/images/on_boarding/on_board_3.png",
+      "title": "قارن\nوقرر",
+      "body": "قارن بسهولة الأسعار والمميزات والتقييمات لاتخاذ قرارات شراء مستنيرة. منصتنا تمكنك من العثور على الخيار الأمثل لتفضيلاتك وميزانيتك."
+    }
+  ]
+}

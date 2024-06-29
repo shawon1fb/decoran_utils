@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "image": "onBoard_1",
+      "title": "Browse\nProducts",
+      "body": "Discover a vast array of products tailored to your interests and needs. From trending items to personalised recommendations, there's something for everyone."
+    },
+    {
+      "image": "onBoard_2",
+      "title": "Save\nFavorites",
+      "body": "Found something you love? Save it for later by adding it to your Wishlist. Never miss out on your desired items again!"
+    },
+    {
+      "image": "onBoard_3",
+      "title": "Compare and\nDecide",
+      "body": "Easily compare prices, features, and reviews to make informed purchase decisions. Our platform empowers you to find the perfect fit for your preferences and budget."
+    }
+  ]
+}

@@ -83,7 +83,6 @@
         "max_price": 100.0
       },
       "content": null
-
     },
     {
       "id": "4",
@@ -357,6 +356,73 @@
           "id": "23",
           "title": "green",
           "color": "#039855",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "TAGS",
+      "type": "multi_select_tags",
+      "content": [
+        {
+          "id": "24",
+          "title": "Black",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "25",
+          "title": "gray",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "25",
+          "title": "L",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "26",
+          "title": "M",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "27",
+          "title": "Pink",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "28",
+          "title": "Red",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "29",
+          "title": "White",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "30",
+          "title": "X",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "31",
+          "title": "XL",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "32",
+          "title": "XXL",
+          "color": null,
           "icon": null
         }
       ]
